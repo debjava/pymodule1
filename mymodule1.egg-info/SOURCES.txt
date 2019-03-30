@@ -1,0 +1,8 @@
+setup.py
+hellomodule/Hello1.py
+hellomodule/__init__.py
+mymodule1.egg-info/PKG-INFO
+mymodule1.egg-info/SOURCES.txt
+mymodule1.egg-info/dependency_links.txt
+mymodule1.egg-info/requires.txt
+mymodule1.egg-info/top_level.txt

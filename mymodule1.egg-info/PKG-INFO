@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: mymodule1
+Version: 1.0
+Summary: My short description for my project.
+Home-page: https://github.com/debjava/pymodule1
+Author: Debadatta Mishra
+Author-email: deba.java@gmail.com
+License: MIT
+Description: long_description
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.7
+Requires-Python: >=3.7.0
+Description-Content-Type: text/markdown
